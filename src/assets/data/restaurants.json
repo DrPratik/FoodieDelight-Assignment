@@ -1,0 +1,142 @@
+[
+  {
+      "id": "1",
+      "name": "Hotel Rahul",
+      "description": "Aundh's Best Dine in",
+      "location": "Aundh, Pune",
+      "additionalInfo": ""
+  },
+  {
+      "id": "2",
+      "name": "Hotel Panchali",
+      "description": "JM Road's Goto place",
+      "location": "JM Road, Pune",
+      "additionalInfo": "Family-friendly"
+  },
+  {
+      "id": "3",
+      "name": "Vaishali Restaurant",
+      "description": "Iconic South Indian joint",
+      "location": "Fergusson College Road, Pune",
+      "additionalInfo": "Known for its dosas and coffee"
+  },
+  {
+      "id": "4",
+      "name": "Chaitanya Paranthas",
+      "description": "Authentic North Indian paranthas",
+      "location": "Deccan Gymkhana, Pune",
+      "additionalInfo": "Popular for its stuffed paranthas"
+  },
+  {
+      "id": "5",
+      "name": "Shabree",
+      "description": "Traditional Maharashtrian Thali",
+      "location": "FC Road, Pune",
+      "additionalInfo": "Great for traditional meals"
+  },
+  {
+      "id": "6",
+      "name": "Baan Tao",
+      "description": "Asian cuisine with serene ambiance",
+      "location": "Hyatt Pune, Kalyani Nagar, Pune",
+      "additionalInfo": "Specializes in Thai and Chinese food"
+  },
+  {
+      "id": "7",
+      "name": "Kayani Bakery",
+      "description": "Classic bakery famous for Shrewsbury biscuits",
+      "location": "East Street, Camp, Pune",
+      "additionalInfo": "Must-try biscuits and cakes"
+  },
+  {
+      "id": "8",
+      "name": "Paasha",
+      "description": "Rooftop dining with a view",
+      "location": "JW Marriott, SB Road, Pune",
+      "additionalInfo": "Known for North Indian cuisine"
+  },
+  {
+      "id": "9",
+      "name": "Savya Rasa",
+      "description": "South Indian fine dining",
+      "location": "Koregaon Park, Pune",
+      "additionalInfo": "Authentic regional flavors"
+  },
+  {
+      "id": "10",
+      "name": "Malaka Spice",
+      "description": "Pan-Asian dining experience",
+      "location": "Koregaon Park, Pune",
+      "additionalInfo": "Renowned for Southeast Asian cuisine"
+  },
+  {
+      "id": "11",
+      "name": "German Bakery",
+      "description": "Trendy café with a relaxed vibe",
+      "location": "Koregaon Park, Pune",
+      "additionalInfo": "Famous for bakery items and continental dishes"
+  },
+  {
+      "id": "12",
+      "name": "The Bounty Sizzlers",
+      "description": "Specializes in sizzlers",
+      "location": "Deccan Gymkhana, Pune",
+      "additionalInfo": "Wide variety of sizzlers"
+  },
+  {
+      "id": "13",
+      "name": "1000 Oaks",
+      "description": "Classic pub with great food",
+      "location": "East Street, Camp, Pune",
+      "additionalInfo": "Famous for the 'Barman's Pitcher'"
+  },
+  {
+      "id": "14",
+      "name": "Chopsticks Spice Malabar",
+      "description": "Authentic Kerala cuisine",
+      "location": "Baner, Pune",
+      "additionalInfo": "Specializes in coastal dishes"
+  },
+  {
+      "id": "15",
+      "name": "The House of Medici",
+      "description": "Upscale bar with live music",
+      "location": "Westin, Koregaon Park, Pune",
+      "additionalInfo": "Known for cocktails and ambiance"
+  },
+  {
+      "id": "16",
+      "name": "Arthur's Theme",
+      "description": "European fine dining",
+      "location": "Koregaon Park, Pune",
+      "additionalInfo": "Popular for its continental cuisine"
+  },
+  {
+      "id": "17",
+      "name": "Maratha Samrat",
+      "description": "Traditional Maharashtrian cuisine",
+      "location": "Pimple Saudagar, Pune",
+      "additionalInfo": "Great for authentic local dishes"
+  },
+  {
+      "id": "18",
+      "name": "The Flour Works",
+      "description": "Charming bakery and café",
+      "location": "Kalyani Nagar, Pune",
+      "additionalInfo": "Known for its breakfast menu"
+  },
+  {
+      "id": "19",
+      "name": "Dario's",
+      "description": "Vegetarian Italian restaurant",
+      "location": "Koregaon Park, Pune",
+      "additionalInfo": "Authentic Italian cuisine"
+  },
+  {
+      "id": "20",
+      "name": "The Urban Foundry",
+      "description": "Modern Indian dining with a twist",
+      "location": "Balewadi High Street, Pune",
+      "additionalInfo": "Eclectic menu and vibrant atmosphere"
+  }
+]

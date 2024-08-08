@@ -1,0 +1,18 @@
+<div class="container">
+    <h2 class="my-4">Restaurants</h2>
+    <div class="row">
+      <div class="col-md-4" *ngFor="let restaurant of restaurants | paginate: {itemsPerPage:maxItems, currentPage:page}">
+        <div class="card mb-4">
+          <div class="card-body">
+            <h5 class="card-title">{{ restaurant.name }}</h5>
+            <p class="card-text">{{ restaurant.description }}</p>
+            <p class="card-text"><small class="text-muted">{{ restaurant.location }}</small></p>
+            <a [routerLink]="['/add', restaurant.id]" class="btn"><i class="fa fa-pencil-alt"></i></a>
+            <a style="float: inline-end;" [routerLink]="['/delete', restaurant.id]" class="btn"><i class="fa fa-trash"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <pagination-controls style="text-align: center;" [autoHide]="restaurants.length<maxItems" (pageChange)=" page = $event"></pagination-controls>
+  </div>
+  
